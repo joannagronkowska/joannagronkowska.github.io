@@ -577,3 +577,11 @@ jsonresume:
   - languages
   - interests
   - references
+
+exclude:
+  - _includes/related_posts.liquid
+  - _pages/blog.md
+  - _posts/
+  - assets/jupyter/blog.ipynb
+  - _includes/latest_posts.liquid
+  - _pages/repositories.md
