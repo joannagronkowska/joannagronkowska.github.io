@@ -56,14 +56,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-m-participating-in-una-europa-summer-school-2025-for-doctoral-researchers-sustainable-food-systems-in-helsinki",
+            },},{id: "news-i-m-participating-in-una-europa-summer-school-2025-for-doctoral-researchers-sustainable-food-systems-in-helsinki",
           title: 'I’m participating in Una Europa Summer School 2025 for doctoral researchers: Sustainable Food...',
           description: "",
           section: "News",},{id: "news-i-m-participating-in-colloque-jeunes-chercheur-euse-s-langage-et-identité-at-université-de-strasbourg",
           title: 'I’m participating in Colloque Jeunes Chercheur.euse.s ‘Langage et identité’ at Université de Strasbourg....',
+          description: "",
+          section: "News",},{id: "news-i-m-participating-in-the-cognitive-linguistics-in-the-year-2025-international-conference-in-cracow",
+          title: 'I’m participating in The Cognitive Linguistics in the Year 2025 International Conference in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
