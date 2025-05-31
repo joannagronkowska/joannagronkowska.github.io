@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-06-02
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I'm participating in Una Europa Summer School 2025 for doctoral researchers: Sustainable Food Systems; in Helsinki!
