@@ -30,14 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "news-i-m-participating-in-una-europa-summer-school-2025-for-doctoral-researchers-sustainable-food-systems-in-helsinki",
+        },{id: "news-i-m-participating-in-una-europa-summer-school-2025-for-doctoral-researchers-sustainable-food-systems-in-helsinki",
           title: 'I’m participating in Una Europa Summer School 2025 for doctoral researchers: Sustainable Food...',
           description: "",
           section: "News",},{id: "news-i-m-participating-in-colloque-jeunes-chercheur-euse-s-langage-et-identité-at-université-de-strasbourg",
