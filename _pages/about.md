@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: La gourmandise est un des principaux liens de la société (...). (Physiologie du goût, 1826)
+subtitle: **La gourmandise est un des principaux liens de la société (...). (Physiologie du goût, 1826)**
 
 profile:
   align: right
