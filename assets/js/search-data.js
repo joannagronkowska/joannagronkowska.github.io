@@ -37,12 +37,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-i-m-participating-in-una-europa-summer-school-2025-for-doctoral-researchers-sustainable-food-systems-in-helsinki",
+            },{id: "news-i-m-participating-in-una-europa-summer-school-2025-for-doctoral-researchers-sustainable-food-systems-in-helsinki",
           title: 'I’m participating in Una Europa Summer School 2025 for doctoral researchers: Sustainable Food...',
           description: "",
           section: "News",},{id: "news-i-m-participating-in-colloque-jeunes-chercheur-euse-s-langage-et-identité-at-université-de-strasbourg",
