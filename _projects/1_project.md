@@ -39,5 +39,5 @@ The migration of Polish miners and their families to France, especially to the n
     This project was presented during the conference Contextes sociolinguistiques et socioculturels en linguistique appliquée [Sociolinguistic and Sociocultural Contexts in Applied Linguistics], Jagiellonian University, Jean Moulin Lyon 3 University, Maria Curie-Skłodowska University in Lublin (November 4-5, 2024; on the left). The poster with results and intepretation of the data collected so far is going to be presented during the conference in Strasbourg (June 12-13, 2025).
 </div>
 
-Because of the complexity of this research problem, I plan to continue to collect the data and analyse it in 2025 and 2026. If you are interested in cooperation (and you are a sociologist or historician!), you can write me.
+Because of the complexity of this research problem, I plan to continue to collect the data and analyse it in 2025 and 2026. If you are interested in cooperation (and you are a sociologist or a historian!), you can write me.
 
