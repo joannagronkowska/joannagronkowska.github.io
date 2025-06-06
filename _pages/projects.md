@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some projects that I work(ed) on, conference presentations included.
+description: "Some projects that I work(ed) on, conference presentations included."
 nav: true
 nav_order: 3
 display_categories: [work, fun]
