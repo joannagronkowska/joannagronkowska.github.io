@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Culture dans l'assiette
-description: Histoires culinaires des migrantes polonaises dans le bassin minier du Nord-Pas-de-Calais
+title: Culture on a plate
+description: Culinary stories of Polish migrants in the Nord-Pas-de-Calais mining basin
 img: assets/img/12.jpg
 importance: 1
 category: research
@@ -22,7 +22,7 @@ The study aims to show how the culinary identity of migrants is expressed throug
     On the left, you can see the map of the Nord-Pas-de-Calais mining basin in northern France. On the right, the map of the Dolny Śląsk in Poland, the destination region for Migrants.
 </div>
 
-The migration of Polish miners and their families to France, especially to the northern coal basin, began in 1909 and continued until their repatriation after World War II. Part of this heterogeneous group settled in Dolny Śląsk, mainly for professional reasons. Today, the last witnesses to these events are the second generation of migrants. They have a huge impact not only on the customs and traditions that the re-emigrants still uphold, but also on the language they use, which has retained some dialectal elements, for example from Westphalia, where the first group that emigrated to France came from.
+The migration of Polish miners and their families to France, especially to the northern coal basin, began in 1909 and continued until their repatriation after World War II. Part of this heterogeneous group settled in Dolny Slask, mainly for professional reasons. Today, the last witnesses to these events are the second generation of migrants. They have a huge impact not only on the customs and traditions that the re-emigrants still uphold, but also on the language they use, which has retained some dialectal elements, for example from Westphalia, where the first group that emigrated to France came from.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
