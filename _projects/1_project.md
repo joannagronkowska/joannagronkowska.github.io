@@ -4,7 +4,7 @@ title: Culture on a plate
 description: Culinary stories of Polish migrants in the Nord-Pas-de-Calais mining basin
 img: assets/img/12.jpg
 importance: 1
-category: research
+category: work
 related_publications: false
 ---
 
