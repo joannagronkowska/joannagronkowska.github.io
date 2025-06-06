@@ -44,9 +44,9 @@ ninja.data = [{
           description: "Histoires culinaires des migrantes polonaises dans le bassin minier du Nord-Pas-de-Calais",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-french-culinary-identity",
+          title: 'French Culinary Identity',
+          description: "French Fast-food Chains&#39; Marketing Campaigns in SM",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-project-3-with-very-long-name",
