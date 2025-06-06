@@ -39,9 +39,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-participating-in-the-cognitive-linguistics-in-the-year-2025-international-conference-in-cracow",
           title: 'I’m participating in The Cognitive Linguistics in the Year 2025 International Conference in...',
           description: "",
-          section: "News",},{id: "projects-culture-dans-l-39-assiette",
-          title: 'Culture dans l&amp;#39;assiette',
-          description: "Histoires culinaires des migrantes polonaises dans le bassin minier du Nord-Pas-de-Calais",
+          section: "News",},{id: "projects-culture-on-a-plate",
+          title: 'Culture on a plate',
+          description: "Culinary stories of Polish migrants in the Nord-Pas-de-Calais mining basin",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-french-culinary-identity",
